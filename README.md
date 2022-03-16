@@ -8,3 +8,4 @@
 1. change sword texture
 2. change crafting table texture
 3. change inventory texture
+4. change armour slot
