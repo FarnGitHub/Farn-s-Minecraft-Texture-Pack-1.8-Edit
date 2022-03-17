@@ -4,7 +4,8 @@
 3. reused the unused purple arrow texture ( also bow when pulling and arrow are change with it)
 4. change egg texture
 5. change sword texture again 
-6. change helmet empty armour slot texture                   
+6. change helmet empty armour slot texture  
+7. change zombie villager texture                 
 # Prototype V1.0
 1. change sword texture
 2. change crafting table texture
