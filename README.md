@@ -1,4 +1,4 @@
-# Prototype 1.5 ( upcoming )
+# Prototype V1.5 ( upcoming )
 1. change fishing rod texture
 2. remove pumpkin blur texture
 3. reused the unused purple arrow texture ( also bow when pulling and arrow are change with it)
