@@ -7,7 +7,8 @@
 6. change helmet empty armour slot texture  
 7. change zombie villager texture
 8. change option background to plank texture
-9. change bread texture                 
+9. change bread texture 
+10. change carrot on a stick texture                
 # Prototype V1.0
 1. change sword texture
 2. change crafting table texture
