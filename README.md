@@ -1,4 +1,6 @@
-# Prototype V2.0 ( upcoming )
+# Prototype V2.0 Renew ( upcoming )
+1. 1.14 default version of V2.0 Scrapped ( still use 1.8 / template by Qwuiblington )
+# Prototype V2.0 ( scrapped )
 1. change fishing rod texture
 2. remove pumpkin blur texture
 3. reused the unused purple arrow texture ( also bow when pulling and arrow are change with it)
