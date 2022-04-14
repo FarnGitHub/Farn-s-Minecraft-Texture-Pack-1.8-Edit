@@ -1,5 +1,6 @@
-# Prototype V2.0 Renew ( upcoming )
-1. no planned yet
+# Prototype V2.0 Renew
+1. Quite Alot
+2. Beta Version Is here
 # Prototype V2.0 ( scrapped )
 1. change fishing rod texture
 2. remove pumpkin blur texture
