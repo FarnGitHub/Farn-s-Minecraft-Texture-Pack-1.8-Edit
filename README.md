@@ -2,7 +2,7 @@
 1. Menu Panaroma Change ( Full Release )
 2. Lot Of thing Add
 3. Beta Version Is here
-# Second Prototype / Second Prototype Renew ( scrapped )
+# Second Prototype ( scrapped )
 1. change fishing rod texture
 2. remove pumpkin blur texture
 3. reused the unused purple arrow texture ( also bow when pulling and arrow are change with it)
