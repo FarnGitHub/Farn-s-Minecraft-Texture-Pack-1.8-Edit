@@ -1,7 +1,8 @@
-# Prototype V2.0 Renew
-1. Quite Alot
-2. Beta Version Is here
-# Prototype V2.0 ( scrapped )
+# Full Release Renew
+1. Menu Panaroma Change ( Full Release )
+2. Lot Of thing Add
+3. Beta Version Is here
+# Second Prototype / Second Prototype Renew ( scrapped )
 1. change fishing rod texture
 2. remove pumpkin blur texture
 3. reused the unused purple arrow texture ( also bow when pulling and arrow are change with it)
@@ -12,8 +13,9 @@
 8. change option background to plank texture
 9. change bread texture 
 10. change carrot on a stick texture
-11. Fix Furnace Texture                
-# Prototype V1.0
+11. Fix Furnace Texture
+12. 1.14 TX                
+# Prototype
 1. change sword texture
 2. change crafting table texture
 3. change inventory texture
