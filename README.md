@@ -1,8 +1,8 @@
-# Full Release Renew
+# Full Release Renew / alpha 0.2.0
 1. Menu Panaroma Change ( Full Release )
 2. Lot Of thing Add
 3. Beta Version Is here
-# Second Prototype ( scrapped )
+# Full Release ( scrapped )
 1. change fishing rod texture
 2. remove pumpkin blur texture
 3. reused the unused purple arrow texture ( also bow when pulling and arrow are change with it)
@@ -15,7 +15,7 @@
 10. change carrot on a stick texture
 11. Fix Furnace Texture
 12. 1.14 TX                
-# Prototype
+# alpha 0.1.0
 1. change sword texture
 2. change crafting table texture
 3. change inventory texture
